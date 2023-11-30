@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Run Classification Analysis",
+            "type": "python",
+            "request": "launch",
+            "program": "classification/analysis.py",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
